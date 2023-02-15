@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubenny123&label=Profile%20views&color=0e75b6&style=flat" alt="anubenny123" /> </p>
 
-- 🌱 I’m currently learning **python full stack web development from luminar techolab**
+- 🌱 I’m currently completed  **python full stack web development internship from luminar techolab**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anubenny123/Anubenny123](https://github.com/anubenny123/Anubenny123)
 
