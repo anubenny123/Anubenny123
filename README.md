@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-<h1 align="center">Hi👋I'm Anu Benny</h1>
+
+download backup
+
+preview
+<h1 align="center">Hi 👋, I'm Anu Benny</h1>
 <h3 align="center">A passionate software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubenny123&label=Profile%20views&color=0e75b6&style=flat" alt="anubenny123" /> </p>
 
-- 🌱 I’m currently completed  **python full stack web development internship from luminar techolab**
+- 🌱 I’m currently learning **python full stack web development from luminar techolab**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anubenny123/Anubenny123](https://github.com/anubenny123/Anubenny123)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/anubenny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubenny" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubenny123&show_icons=true&locale=en" alt="anubenny123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubenny123&" alt="anubenny123" /></p>
-
