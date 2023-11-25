@@ -1,17 +1,14 @@
  
- ## I'm Anu😊 Nice to meet you👋
- ![](https://komarev.com/ghpvc/?username=anna-dm)
- 
-   ## Contact with me 📱💻
-<a href="mailto:anna-anna-frolova@bk.ru"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://t.me/anna_dmitrievna11"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+ ## I'm Anu Benny😊 Nice to meet you👋
+ ## Contact with me 📱💻
+<a href="mailto:anu820854@gmail.com"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.instagram.com/anna_dmitrievna11/"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   
  
  ```javascript
 // index.js
 [
-  '💻 I am a Junior Front-End Developer',
+  '💻 I am a Junior software Developer',
   '🎯 Currently working on something interesting, improving my skills',
   '🌱 I strive to make the code cleaner and the world a better place!',
 ].forEach((e) => { console.log(e) });
@@ -22,7 +19,7 @@
   <img  align="left" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
 </div>
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-dm&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+<img src="" alt="Most used languages" />
 </div>
 
  <div align="center" >
