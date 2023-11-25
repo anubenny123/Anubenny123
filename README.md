@@ -1,22 +1,49 @@
-<h1 align="center">Hi👋, I'm Anu Benny</h1>
-<h3 align="center">A passionate software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubenny123&label=Profile%20views&color=0e75b6&style=flat" alt="anubenny123" /> </p>
+ 
+ ## I'm Anu😊 Nice to meet you👋
+ ![](https://komarev.com/ghpvc/?username=anna-dm)
+ 
+   ## Contact with me 📱💻
+<a href="mailto:anna-anna-frolova@bk.ru"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://t.me/anna_dmitrievna11"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://www.instagram.com/anna_dmitrievna11/"><img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  
+ 
+ ```javascript
+// index.js
+[
+  '💻 I am a Junior Front-End Developer',
+  '🎯 Currently working on something interesting, improving my skills',
+  '🌱 I strive to make the code cleaner and the world a better place!',
+].forEach((e) => { console.log(e) });
+```
+<hr>
 
-- 🌱 I’m currently completed **python full stack web development intenship at luminar techolab**
+<div align="right">
+  <img  align="left" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300"/>
+</div>
+<div align="center" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-dm&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/anubenny123/Anubenny123](https://github.com/anubenny123/Anubenny123)
+ <div align="center" >
+ Skills 🛠 💻
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><br />
+  </div>
+ 
+ <div align="center" >
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <br />
+</div>
+ <div align="center" >
+ <div align="center" >
+ <div align="center" >
+ Tools  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/><br />
+</div>
+ </div>
+ 
+ <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anu-benny-779779261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubenny" height="30" width="40" /></a>
-</p>
+  # Thank you for visiting my profile 🙏
+I'm really thankful for your unwavering support ⭐
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubenny123&show_icons=true&locale=en&layout=compact" alt="anubenny123" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubenny123&show_icons=true&locale=en" alt="anubenny123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubenny123&" alt="anubenny123" /></p>
